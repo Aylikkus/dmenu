@@ -4,3 +4,4 @@ patches
 *.o
 dmenu
 stest
+config.h
